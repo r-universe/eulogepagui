@@ -8,3 +8,8 @@
 	url = https://github.com/eulogepagui/mbrglm
 	shallow = true
 	registered = true
+[submodule "PLordprob"]
+	path = PLordprob
+	url = https://github.com/cran/PLordprob
+	shallow = true
+	registered = true
