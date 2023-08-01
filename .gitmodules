@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mbrglm"]
-	path = mbrglm
-	url = https://github.com/eulogepagui/mbrglm
 [submodule "PLordprob"]
 	path = PLordprob
 	url = https://github.com/cran/PLordprob
+[submodule "mbrglm"]
+	path = mbrglm
+	url = https://github.com/eulogepagui/mbrglm
